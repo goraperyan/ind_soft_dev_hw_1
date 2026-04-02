@@ -1,4 +1,4 @@
-# ind_soft_dev_hw_1
+# Homework №1 in the course "Industrial Software Development"
 
 ## Run
 
