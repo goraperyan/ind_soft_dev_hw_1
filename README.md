@@ -1,7 +1,8 @@
 # Homework №1 in the course "Industrial Software Development"
 
 ## Run
-
+    docker build -t custom-app:1.0 .
+    
     chmod +x deploy.sh
     ./deploy.sh
 
